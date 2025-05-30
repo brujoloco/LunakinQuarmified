@@ -2,7 +2,7 @@
 
 Lunakin Quarmified is a custom user interface for Quarm, an EverQuest emulator. This minimalistic, no-frills UI pays homage to the classic work of Lunakin while adding modern enhancements and extensive color customization options for Project Quarm players.
 
-![Lunakin Quarmified](https://imgur.com/4JKHntq)
+![Lunakin Quarmified](https://raw.githubusercontent.com/brujoloco/Images/refs/heads/main/4JKHntq.png)
 <br>Inspired by the original Lunakin UI with modern Quarm-specific enhancements
 
 ### Download & Installation
