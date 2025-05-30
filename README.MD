@@ -120,9 +120,10 @@ Many thanks to **Lunakin** for the original UI foundation. This project serves a
 Special thanks to **Nillipuss** for bank window contributions and the Project Quarm community for continuous feedback and feature requests.
 
 ## Screenshots
-![Color Palette Examples](https://imgur.com/i4nMEvM)
-![More Colors!](https://imgur.com/YmEy4Bc)
-![Zeal Integration!!](https://imgur.com/6TpNMBq)
+![Color Palette Examples](https://raw.githubusercontent.com/brujoloco/Images/refs/heads/main/LQ1.png)
+![More Colors!](https://raw.githubusercontent.com/brujoloco/Images/refs/heads/main/screen195.jpg)
+![Zeal Integration!!](https://raw.githubusercontent.com/brujoloco/Images/refs/heads/main/LQ2.png)
+
 
 ---
 *"Hugs to everybody!" - A UI made with love for the Project Quarm community by Brujoloco*
