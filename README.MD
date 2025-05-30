@@ -128,7 +128,7 @@ I host here and in www.eqinterface.com!
 
 Search for Lunakin Quarmified there, fact is, I update my uis there faster than here to be honest.
 
-![Lunakin Quarmified on EQInterface.com](https://www.eqinterface.com/downloads/fileinfo.php?s=5c046164d3399d9b11ee267866e6a1a8&id=6942)
+Lunakin Quarmified on EQInterface.com --> https://www.eqinterface.com/downloads/fileinfo.php?s=5c046164d3399d9b11ee267866e6a1a8&id=6942
 
 ---
 *"Hugs to everybody!" - A UI made with love for the Project Quarm community by Brujoloco*
