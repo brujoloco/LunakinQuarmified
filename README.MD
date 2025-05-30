@@ -8,7 +8,8 @@ Lunakin Quarmified is a custom user interface for Quarm, an EverQuest emulator. 
 ### Download & Installation
 - [Download the latest release](https://github.com/your-username/lunakin-quarmified/releases/latest)
 - Extract the Lunakin Quarmified folder to your **uifiles** folder within your main EverQuest directory.
-- Type `/load lunakin_quarmified 1` in-game to select it.
+- Type `/load LunakinQuarmified` in-game to select it.
+- Or alternatively load it via Menu, which is much easier in my opinion XD
 
 ### Requirements
 [Zeal](https://github.com/iamclint/Zeal/releases) is highly recommended for enhanced functionality, detailed installation instructions found [here](https://github.com/iamclint/Zeal?tab=readme-ov-file#installation)
