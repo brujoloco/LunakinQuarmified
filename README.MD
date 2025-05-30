@@ -45,7 +45,7 @@ Extensive customization options are available in the Options folder:
 **Color Themes:**
 - Navigate to the Options/COLORS folder to find 18+ color palettes
 - Each palette includes complete TGA file sets
-- Default theme is Black for optimal visual streamlining
+- Default theme is GRASS, but Black is included for optimal visual streamlining if you want
 - Special themes include: Bloodsabers (Purple/Red), Order of Three (Blue/Yellow), MIRE (Brown), SPICY ONION (Purple variant), and AQUA
 
 **Window Layouts:**
