@@ -12,7 +12,7 @@ Lunakin Quarmified is a custom user interface for Quarm, an EverQuest emulator. 
 - Or alternatively load it via Menu, which is much easier in my opinion XD
 
 ### Requirements
-[Zeal](https://github.com/iamclint/Zeal/releases) is highly recommended for enhanced functionality, detailed installation instructions found [here](https://github.com/iamclint/Zeal?tab=readme-ov-file#installation)
+[Zeal](https://github.com/iamclint/Zeal/releases) is required for the UI to fully load and  for enhanced functionality, detailed installation instructions found [here](https://github.com/iamclint/Zeal?tab=readme-ov-file#installation)
 
 ### Features
 
