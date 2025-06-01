@@ -72,6 +72,8 @@ Many modifications included were based on community requests - your feedback sha
 
 ### Version History
 
+* 3.0.0 - Fixed several small bugs in some of the optional windows + added two new color choices : Rotborn and Iksar Peach! + a lot of minor tweaks! enough to merit a new whole version!
+
 * 2.9.8 - Due to popular demand added Current and Total real mana to Player-Target window + XP Hour and Free Slots + Total Inventory Slots to the special Information window. Literally cannot be even MORE Zeal Compliant now! Enjoy!
 
 * 2.9.7 - Thanks to @Alak at Discord I was able to find a small tolerance bug in my new sdbw.xml, fixed the error for Windows users, UI should work now without issues.
