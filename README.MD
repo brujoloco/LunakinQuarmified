@@ -71,6 +71,7 @@ Join the Project Quarm UI Discord channel for:
 Many modifications included were based on community requests - your feedback shapes this UI!
 
 ### Version History
+* 3.0.1 - Added new AA per Hour (zeal formtype 86)  to modified Target window to the right of current XP per hour 
 
 * 3.0.0 - Fixed several small bugs in some of the optional windows + added two new color choices : Rotborn and Iksar Peach! + a lot of minor tweaks! enough to merit a new whole version!
 
